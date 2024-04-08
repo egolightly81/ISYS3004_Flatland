@@ -1,10 +1,10 @@
 # ISYS3004_FlatlandFlatland Exploration Project
 
-Welcome to the Flatland Exploration Project! 
+##Welcome to the Flatland Exploration Project! 
 
 This project allows you to explore the fictional world of Flatland and interact with its inhabitants.
 
-Table of Contents
+###Table of Contents
 Features
 Getting Started
 Prerequisites
