@@ -1,4 +1,10 @@
-Buzzword Phrase Generator (JavaScript)
+
+var square = document.getElementById('square')
+
+    function changeColour(Colour){
+        square.style.background = 'Colour';
+    }
+// this needs work - re watch the lecture 
 
 function createBuzzwordPhrase() {
     /* See https://en.wikipedia.org/wiki/List_of_buzzwords */
