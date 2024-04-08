@@ -1,3 +1,11 @@
+// 1. Locate the Element(s)
+
+// 2. Write the functionality needed when event occurs 
+
+//3. Link element, event to functionality 
+
+// above is the 3 step method to follow which is followed below
+
 var square = document.getElementById('square');
 var words = document.getElementById('words');
 
