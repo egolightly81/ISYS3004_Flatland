@@ -4,26 +4,29 @@ style.css
    Author: EMERALD GOLIGHTLY
    Description: Styling for Flatland
    Version: 1.0
+   Chat GPT refrenced https://chat.openai.com/share/8017b117-d659-4873-b3a3-ed07550957e8 
 */
 body {
   font-family: "Helvetica", "Arial", sans-serif;
   box-sizing: border-box;
   padding-top: 40px;
-  width: 550px;
-  margin: 0 auto;
+  width: 100%;
   display: flex;
   justify-content: center;
 }
 
+.container {
+  display: flex;
+  align-items: center;
+}
+
 #square {
-  float:left;
   width: 200px;
   height: 200px;
   background: red;
 }
 
 #words {
-  float: left;
   width: 250px;
   height: 200px;
   font-size: 25px;
