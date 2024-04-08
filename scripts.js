@@ -1,9 +1,17 @@
-
+// 1. Locate the Element(s)
 var square = document.getElementById('square')
 
-    function changeColour(Colour){
+// 2. Write the functionality needed when event occurs 
+function changeColour(Colour){
         square.style.background = 'Colour';
     }
+//3. Link element, event to functionality 
+// i.e add an event listener
+square.addEventListener('click', (event)=> changeColour('green'))
+square.addEventListener('mouseover', (event)=> changeColour('red'))
+square.addEventListener('mouseout', (event)=> changeColour('grey'))
+
+
 // this needs work - re watch the lecture 
 
 function createBuzzwordPhrase() {
