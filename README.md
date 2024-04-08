@@ -1,4 +1,4 @@
-# ISYS3004_FlatlandFlatland Exploration Project
+# ISYS3004_Flatland Exploration Project
 
 # Welcome to Flatland Project
 
