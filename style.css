@@ -1,25 +1,27 @@
+style.css
+
+/* Name: style.css
+   Author: EMERALD GOLIGHTLY
+   Description: Styling for Flatland
+   Version: 1.0
+*/
 body {
   font-family: "Helvetica", "Arial", sans-serif;
   box-sizing: border-box;
   padding-top: 40px;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-
-.clearfix::after {
-  content: "";
-  display: table;
-  clear: both;
+  width: 550px;
+  margin: 0 auto;
 }
 
 #square {
+  float:left;
   width: 200px;
   height: 200px;
   background: red;
 }
 
 #words {
+  float: left;
   width: 250px;
   height: 200px;
   font-size: 25px;
