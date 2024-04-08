@@ -37,4 +37,4 @@ function createBuzzwordPhrase() {
 // Example usage of createBuzzwordPhrase function
 words.textContent = createBuzzwordPhrase();
 
-// https://chat.openai.com/share/8017b117-d659-4873-b3a3-ed07550957e8 
+// trouble shoot https://chat.openai.com/share/8017b117-d659-4873-b3a3-ed07550957e8 
