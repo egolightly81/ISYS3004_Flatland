@@ -34,4 +34,7 @@ function updateText() {
     words.textContent = createBuzzwordPhrase();
 }
 
+// Initial text update
+updateText();
+
 // https://chat.openai.com/share/8017b117-d659-4873-b3a3-ed07550957e8
